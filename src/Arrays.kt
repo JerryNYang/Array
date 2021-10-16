@@ -9,13 +9,14 @@ fun main() {
     val cat : Float = 5F
     println(cat)
 
-    val myARRAY = arrayOfNulls<String>(4)
+    val myARRAY = arrayOfNulls<String>(5)
     myARRAY[0] = "2"
     myARRAY[1] = "44"
     myARRAY[2] = "32323"
     myARRAY[3] = "777"
+    myARRAY[4] = "Hello"
 
-    println(myARRAY[3])
+    println(myARRAY[4])
 
     val myNUMARRAY = intArrayOf(11,222,3444,331)
     println(myNUMARRAY.size)
