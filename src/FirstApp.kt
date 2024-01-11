@@ -10,7 +10,7 @@ fun main(args: Array<String>) {
     val str2: String
     str2 = "Kill"
 
-    val GPA = 3.0
+    val GPA = 3.04
     val age = 22
     val name = "jerry inyang"
     println("GPA: " + GPA)
