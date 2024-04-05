@@ -4,7 +4,7 @@
  */
 
 fun main() {
-    println("Helllllo, world!!!")
+    println("Hello, world!!!")
 
     val cat : Float = 1.85F
     println(cat)
