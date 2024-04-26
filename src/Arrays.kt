@@ -10,7 +10,7 @@ fun main() {
     println(cat)
 
     val myARRAY = arrayOfNulls<String>(6)
-    myARRAY[0] = "24"
+    myARRAY[0] = "724"
     myARRAY[1] = "44"
     myARRAY[2] = "32323"
     myARRAY[3] = "777"
