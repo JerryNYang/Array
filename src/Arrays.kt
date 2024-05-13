@@ -27,6 +27,7 @@ fun main() {
     val myMUSIC = ArrayList<String>()
     myMUSIC.add("MJ")
     myMUSIC.add("Joe")
+     myMUSIC.add("Antonella")
     println(myMUSIC)
 
     myMUSIC.add(1, "Kirk")
