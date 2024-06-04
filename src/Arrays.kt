@@ -6,7 +6,7 @@
 fun main() {
     println("Hello, world!!")
 
-    val cat : Float = 1.545F
+    val cat : Float = 1.5435F
     println(cat)
 
     val myARRAY = arrayOfNulls<String>(6)
