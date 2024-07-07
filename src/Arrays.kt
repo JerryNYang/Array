@@ -11,7 +11,7 @@ fun main() {
 
     val myARRAY = arrayOfNulls<String>(6)
     myARRAY[0] = "72224"
-    myARRAY[1] = "443"
+    myARRAY[1] = "4443"
     myARRAY[2] = "32323"
     myARRAY[3] = "777"
     myARRAY[4] = "Hello"
