@@ -1,7 +1,7 @@
 fun main(args: Array<String>) {
 
     val str = "JDenis, Welcome to Kotlin"
-    print(10344020)
+    print(10320)
     print("\nWelcome to kotlin!")
     println("\nJeremiah Denis")
 
