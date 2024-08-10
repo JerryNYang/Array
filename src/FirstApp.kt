@@ -8,7 +8,7 @@ fun main(args: Array<String>) {
     println(str)
 
     val str2: String
-    str2 = "Kill"
+    str2 = "Kill Bill"
 
     val GPA = 3.404
     val age = 22
