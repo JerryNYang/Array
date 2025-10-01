@@ -12,7 +12,7 @@ fun main(args: Array<String>) {
 
     val GPA = 3.404
     val age = 77
-    val name = "jerry inyang"
+    val name = "jerry denis inyang"
     println("GPA: " + GPA)
     println("age: " + age)
     println("name: " + name)
